@@ -2075,7 +2075,7 @@ input.expand-search[type=url]:focus:not([readonly]) {
     cursor: default
 }
 .tabs .indicator {
-    background-color: #26a69a
+    background-color: #1565c0
 }
 input:not([type]),
 input[type=date],
@@ -2103,8 +2103,8 @@ input[type=text]:focus:not([readonly]),
 input[type=time]:focus:not([readonly]),
 input[type=url]:focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-    border-bottom: 1px solid #26a69a;
-    box-shadow: 0 1px 0 0 #26a69a
+    border-bottom: 1px solid #1565c0;
+    box-shadow: 0 1px 0 0 #1565c0
 }
 .input-field .prefix.active,
 input[type=date]:focus:not([readonly])+label,
@@ -2118,7 +2118,7 @@ input[type=text]:focus:not([readonly])+label,
 input[type=time]:focus:not([readonly])+label,
 input[type=url]:focus:not([readonly])+label,
 textarea.materialize-textarea:focus:not([readonly])+label {
-    color: #26a69a
+    color: #1565c0
 }
 .input-field label.error {
     color: #F44336;
@@ -2137,36 +2137,36 @@ textarea.materialize-textarea:focus:not([readonly])+label {
     max-height: 420px
 }
 [type=radio]:checked+label:after {
-    border: 2px solid #26a69a;
-    background-color: #26a69a
+    border: 2px solid #1565c0;
+    background-color: #1565c0
 }
 [type=radio].with-gap:checked+label:before {
-    border: 2px solid #26a69a
+    border: 2px solid #1565c0
 }
 [type=radio].with-gap:checked+label:after {
-    border: 2px solid #26a69a;
-    background-color: #26a69a
+    border: 2px solid #1565c0;
+    background-color: #1565c0
 }
 .switch label input[type=checkbox]:checked+.lever {
     background-color: #80cbc4
 }
 .picker__date-display,
 .switch label input[type=checkbox]:checked+.lever:after {
-    background-color: #26a69a
+    background-color: #1565c0
 }
 [type=checkbox]:checked+label:before {
-    border-right: 2px solid #26a69a;
-    border-bottom: 2px solid #26a69a
+    border-right: 2px solid #1565c0;
+    border-bottom: 2px solid #1565c0
 }
 [type=checkbox].filled-in:checked+label:after {
-    border: 2px solid #26a69a;
-    background-color: #26a69a
+    border: 2px solid #1565c0;
+    background-color: #1565c0
 }
 .picker__weekday-display {
     background-color: #00796b
 }
 .picker__day.picker__day--today {
-    color: #26a69a
+    color: #1565c0
 }
 .picker--focused .picker__day--selected,
 .picker__day--selected,
@@ -2180,7 +2180,7 @@ textarea.materialize-textarea:focus:not([readonly])+label {
 .picker__close,
 .picker__today,
 input[type=range]+.thumb .value {
-    color: #26a69a
+    color: #1565c0
 }
 button.picker__clear:focus,
 button.picker__close:focus,
@@ -2192,16 +2192,16 @@ button.picker__today:focus {
     background: #80cbc4
 }
 input[type=range]+.thumb {
-    background-color: #26a69a
+    background-color: #1565c0
 }
 input[type=range]::-webkit-slider-thumb {
-    background-color: #26a69a
+    background-color: #1565c0
 }
 input[type=range]::-moz-range-thumb {
-    background: #26a69a
+    background: #1565c0
 }
 input[type=range]::-ms-thumb {
-    background: #26a69a
+    background: #1565c0
 }
 .tabcontrol>.content>.title,
 .wizard>.content>.title {

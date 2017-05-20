@@ -14,7 +14,7 @@ $( document ).ready(function() {
     // Peity Chart
     $.fn.peity.defaults.pie = {
         delimiter: null,
-        fill: ["#26A69A", "#e0e0e0", "#b2dfdb"],
+        fill: ["#1565c0", "#e0e0e0", "#b2dfdb"],
         height: null,
         radius: 8,
         width: null
@@ -143,7 +143,7 @@ $( document ).ready(function() {
                 shadowSize: 0
             }, {
                 data: data2,
-                color: "#26A69A",
+                color: "#1565c0",
                 lines: {
                     show: true,
                     fill: 0.4,
@@ -151,7 +151,7 @@ $( document ).ready(function() {
                 shadowSize: 0,
             },{
                 data: data2,
-                color: "#26A69A",
+                color: "#1565c0",
                 lines: {
                     show: false,
                 },
@@ -258,7 +258,7 @@ $( document ).ready(function() {
                 min: 0,
                 max: 50
             },
-            colors: ["#26A69A"],
+            colors: ["#1565c0"],
             legend: {
                 show: false
             },
